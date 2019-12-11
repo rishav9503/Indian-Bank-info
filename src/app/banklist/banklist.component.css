@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+  }
+  mat-progress-spinner{
+      
+      margin: 25% auto;
+      
+  }
+  .mat-spinner::ng-deep circle {
+    stroke: #000;
+  }
+  .tableConatiner{
+    position: relative;
+    max-height: 500px;
+    overflow: auto;
+  }
